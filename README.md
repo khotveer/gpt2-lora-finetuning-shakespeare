@@ -84,7 +84,9 @@ print(tokenizer.decode(outputs[0], skip_special_tokens=True))
 
 ### Loss Curve
 
-<p align="center"> <img src="path/to/loss_graph.png" alt="Training Loss" width="600"/> </p>
+The model was trained for 10 epochs on the Shakespeare dataset. Both training and validation losses steadily decreased, showing consistent learning and convergence:
+
+![Training Loss Curve](assets/loss_graph.png)
 
 
 ### 🔗 Resources
