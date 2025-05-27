@@ -9,6 +9,7 @@ This repository contains everything needed to reproduce and run a LoRA fine-tune
 ### 🌐 Try the Model in Your Browser
 🧪 Live Demo:
 👉 [LoRA GPT-2 Shakespeare – Hugging Face Space](https://khotveer1-gpt2-shakespeare-ui.hf.space/?logs=container&__theme=system&deep_link=CpRQO5WGNOA)
+
 A simple and elegant Streamlit app hosted on Hugging Face Spaces. You can input custom prompts and generate Shakespeare-style completions instantly in your browser.
 
 
@@ -30,7 +31,8 @@ A simple and elegant Streamlit app hosted on Hugging Face Spaces. You can input 
 - Dataset: Shakespeare’s plays
 - Frameworks: PyTorch, Hugging Face Transformers, PEFT
 
-** The model and adapter are available on Hugging Face Hub: **
+**The model and adapter are available on Hugging Face Hub:**
+  
 👉 [khotveer1/gpt2-medium-lora-finetuned-shakespeare](https://huggingface.co/khotveer1/gpt2-medium-lora-finetuned-shakespeare)
 
 
