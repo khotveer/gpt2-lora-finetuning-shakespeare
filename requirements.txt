@@ -1,0 +1,9 @@
+torch==2.5.1+cu124
+numpy==1.26.4
+requests==2.31.0
+tqdm==4.65.0
+json==2.0.9
+regex==2.5.135
+pickle
+huggingface_hub==0.26.1
+
