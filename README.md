@@ -91,7 +91,7 @@ The model was trained for 10 epochs on the Shakespeare dataset. Both training an
 
 ### 🔗 Resources
 
-🧠 [Medium Article]()
+🧠 [Medium Article](https://medium.com/@khotveer1/mastering-lora-fine-tuning-gpt-2-for-domain-specific-texts-61847bef4732)
 
 💻 [Hugging Face Model Page](https://huggingface.co/khotveer1/gpt2-medium-lora-finetuned-shakespeare)
 
